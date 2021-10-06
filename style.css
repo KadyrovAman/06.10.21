@@ -16,14 +16,14 @@
   color: rgb(255, 255, 255);
   background-color: rgb(30, 255, 0);
   width: 200px;
-   border: 50px solid greenyellow;
+  border: 70px solid greenyellow;
   border-radius: 150px;
   border-top-color: indigo;
   border-bottom-color: rgb(178, 90, 32);
   border-left-color: maroon;
   border-right-color: mediumvioletred;
   padding: 50px;
-  margin: 50px;
+  margin: 100px;
 }
 #example-3 {
   color: rgb(255, 255, 255);
@@ -33,37 +33,37 @@
   border: 50px solid greenyellow;
   border-radius: 150px;
   border-top-color: indigo;
-  border-bottom-color: rgb(178, 90, 32);
+  border-bottom-color: rgb(59, 32, 178);
   border-left-color: maroon;
-  border-right-color: mediumvioletred;
+  border-right-color: rgb(27, 199, 21);
   padding: 50px;
-  margin: 50px;
+  margin: 150px;
 }
 #example-4 {
   color: rgb(255, 255, 255);
   background-color: rgb(255, 0, 191);
-  width: 200px;
+  width: 500px;
   /* height: 100px; */
   border: 50px solid greenyellow;
   border-radius: 150px;
   border-top-color: indigo;
   border-bottom-color: rgb(178, 90, 32);
   border-left-color: maroon;
-  border-right-color: mediumvioletred;
+  border-right-color: rgb(199, 143, 21);
   padding: 50px;
-  margin: 50px;
+  margin: 200px;
 }
 #example-5 {
   color: rgb(255, 255, 255);
   background-color: rgb(0, 255, 55);
   width: 200px;
-  /* height: 100px; */
+  height: 100px;
   border: 50px solid greenyellow;
-  border-radius: 150px;
+  border-radius: 400px;
   border-top-color: indigo;
   border-bottom-color: rgb(178, 90, 32);
   border-left-color: maroon;
   border-right-color: mediumvioletred;
   padding: 50px;
-  margin: 50px;
+  margin: 250px;
 }
